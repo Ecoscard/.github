@@ -14,3 +14,4 @@ Manual em PDF e vídeo legendado de cada módulo do Ecos Cloud vHSM Dashboard:
 - [Key Lifecycle KMIP](https://github.com/Ecoscard/ecoscard-downloads#key-lifecycle-kmip): chaves simétricas e assimétricas, cerimônia de chaves e gestão de chaves no vHSM.
 - [Ecos Company](https://github.com/Ecoscard/ecoscard-downloads#ecos-company): usuários, provedores de identidade, autenticação, políticas e Syslog.
 - [DataPrep](https://github.com/Ecoscard/ecoscard-downloads#dataprep): cadastros, templates, certificados EMV e projetos de preparação de dados.
+- [Audit](https://github.com/Ecoscard/ecoscard-downloads#audit): consulta da trilha de auditoria, filtros, detalhes dos eventos e exportação do relatório.
